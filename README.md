@@ -1,8 +1,11 @@
 # alib
 
 Test App @ alibalib.com
+
 admin login
+
 user: admin@email.com
+
 pass: p@55wOrd
 
 # App stack:
